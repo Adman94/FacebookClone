@@ -11,6 +11,8 @@ import ForumIcon from '@material-ui/icons/Forum'
 import NotificationsActiveIcon from '@material-ui/icons/NotificationsActive'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 import { Avatar, IconButton } from '@material-ui/core'
+import fbIcon from './img/fbicon.png'
+export const profileImg = "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-1/p148x148/117324266_3471349759564765_2279439121490613191_n.jpg?_nc_cat=105&_nc_sid=dbb9e7&_nc_ohc=O3yqO0NKlNcAX-vzjKp&_nc_ht=scontent-sjc3-1.xx&tp=6&oh=57af9a75f0b436e66fd1ad37a70f5997&oe=5F76D937";
 
 function Header() {
   return (
@@ -18,7 +20,7 @@ function Header() {
 
       <div className="header__left">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png"
+          src={fbIcon}
           alt=""
         />
         <div className="header__input">
@@ -47,7 +49,7 @@ function Header() {
 
       <div className="header__right">
         <div className="header__info">
-          <Avatar />
+          <Avatar src={profileImg} />
           <h4>Adeeb</h4>
         </div>
       </div>

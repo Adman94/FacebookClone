@@ -11,12 +11,12 @@ function StoryReel() {
         title="Sonny Sangha"
       />
       <Story
-        image="https://encrypted-tbn0.gstatic.com/images?q=tbn%13AANd9GcTBHC2s4NFdzXEsVzvBPGjkrSePQa-8XFuNtQ&usqp=CAU"
+        image="https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2019/01/facebook-stories2.png"
         profileSrc="https://pbs.twimg.com/profile_images/806970003941527552/sF8UtACd_400x400.jpg"
         title="Rafeh Qazi"
       />
       <Story
-        image="https://images.unsplash.com/photo-1527082385-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        image="https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2019/01/Facebook-Stories-tag-users.png"
         profileSrc="https://image.cnbcfm.com/api/v1/image/106569797-1591649109683gettyimages-1032942656.jpeg?v=1597932630"
         title="Frankie"
       />
